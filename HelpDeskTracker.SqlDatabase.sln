@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "HelpDeskTracker.SqlDatabase", "HelpDeskTracker.SqlDatabase.sqlproj", "{F4E2C85B-B71A-458A-867A-18601AD38182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E2C85B-B71A-458A-867A-18601AD38182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E2C85B-B71A-458A-867A-18601AD38182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E2C85B-B71A-458A-867A-18601AD38182}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F4E2C85B-B71A-458A-867A-18601AD38182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E2C85B-B71A-458A-867A-18601AD38182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E2C85B-B71A-458A-867A-18601AD38182}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C85D751-1ACD-45D9-8955-D7695D8074F5}
+	EndGlobalSection
+EndGlobal
